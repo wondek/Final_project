@@ -96,9 +96,9 @@ To deploy on Goerli or any other network, you will need to modify the following 
 You will need to use the respective addresses for the Goerli network when deploying to Goerli and for the Sepolia network when deploying to Sepolia. The remaining two addresses (bridge address and local validator address) will remain the same regardless of the network you are deploying to.
 
 The addresses that can be replaced by the corresponding Metamask addresses of the two networks are:
-•	The address that is used as the bridge address: This address will be used as the owner of the TokenBridge contract on both networks.
-•	The address that is used as the local validator address: This address will be used as the validator for the TokenBridge contract on both networks.
-•	The address that is used to deploy the TokenBridge contract: This address will be used to deploy the TokenBridge contract on both networks.
+- Item	The address that is used as the bridge address: This address will be used as the owner of the TokenBridge contract on both networks.
+- Item	The address that is used as the local validator address: This address will be used as the validator for the TokenBridge contract on both networks.
+- Item	The address that is used to deploy the TokenBridge contract: This address will be used to deploy the TokenBridge contract on both networks.
 You can replace these addresses in the .env file with the corresponding Metamask addresses of the two networks.
 
 

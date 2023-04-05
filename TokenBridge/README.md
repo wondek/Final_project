@@ -29,7 +29,7 @@ mkdir scripts
 npm install dotenv --save
 ```
 Your .env should look like this:
-API_URL = "https://eth-goerli.alchemyapi.io/v2/your-api-key"
+API_URL = "https://goerli.infura.io/v3/your-api-key"
 PRIVATE_KEY = "your-metamask-private-key"
 
 12.	Install Ethers.js
